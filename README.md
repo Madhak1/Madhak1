@@ -2,7 +2,9 @@
 
 Welcome to my GitHub profile! I'm a researcher with a passion for quantitative analysis and statistical modeling. I love working on projects that combine data, technology, and social impact. 
 
-I have a PhD in Consumer Economics and a Masters in Statistics from the University of Georgia. In my recent research projects, I have 
+I have a PhD in Consumer Economics and a Masters in Statistics from the University of Georgia. My doctoral dissertation received the 2024 Robert O. Herrmann PhD Outstanding Dissertation Award [2024 Robert O. Herrmann PhD Outstanding Dissertation Award](https://www.consumerinterests.org/2024-award-winners) from the American Council of Consumer Interest (ACCI). 
+
+In my recent research projects, I have 
   - investigated the spillover effects of parental health adversities on children's educational outcomes,
   - conducted predictive analysis of consumer behavior based on consumer lifetime value and extreme value theory,
   - assessed the impact of FAFSA workshops intervention amongst high school students in Alabama,
@@ -10,7 +12,9 @@ I have a PhD in Consumer Economics and a Masters in Statistics from the Universi
   - investigated college enrollment, retention, and graduation rates of students in US universities,
   - analyzed profiles of the members of the Financial Therapy Association.
 
-I am currently working on a collaborative project investigating college enrollment, retention, and graduation rates of students in US universities. 
+I am currently working 
+  - on a collaborative project investigating college enrollment, retention, and graduation rates of students in US universities and
+  - on developing an Expectation Maximization algorithm for Gamma mixture models.
 
 I have extensive experience working with both longitudinal and cross-sectional datasets. My expertise includes data exploration, manipulation, transformation, and visualization of large-scale datasets. I have successfully integrated and conducted complex analyses on datasets from diverse domains, demonstrating a strong proficiency in handling substantial data volumes.
 
