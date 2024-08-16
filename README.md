@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a researcher with a passion for quantitative analysis and statistical modeling. I love working on projects that combine data, technology, and social impact. 
 
-I have a PhD in Consumer Economics and a Masters in Statistics from the University of Georgia. My doctoral dissertation received the 2024 Robert O. Herrmann PhD Outstanding Dissertation Award [2024 Robert O. Herrmann PhD Outstanding Dissertation Award](https://www.consumerinterests.org/2024-award-winners) from the American Council of Consumer Interest (ACCI). 
+I have a PhD in Consumer Economics and a Masters in Statistics from the University of Georgia. My doctoral dissertation received the [2024 Robert O. Herrmann PhD Outstanding Dissertation Award](https://www.consumerinterests.org/2024-award-winners) from the American Council of Consumer Interest (ACCI). 
 
 In my recent research projects, I have 
   - investigated the spillover effects of parental health adversities on children's educational outcomes,
